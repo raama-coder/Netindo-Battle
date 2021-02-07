@@ -34,7 +34,7 @@ function preload(){
     WarioF=loadAnimation("gif/warioF.gif")
     Yoshi=loadAnimation("gif/yoshiRun.gif")
     Bowser=loadAnimation("gif/bowserF.gif")
-    kingKRool=loadAnimation("gif/kingK.RoolF:R.gif")
+    kingKRool=loadAnimation("gif/KingK.RoolF:R.gif")
     speedImg=loadImage("powerUp/Speed.png")
     healthImg=loadImage("powerUp/Life.png")
     strengthImg=loadImage("powerUp/Strength.png")
